@@ -1,6 +1,6 @@
 import { useEffect, useState} from "react"
 
-import CardList from "./cardList"
+import CardList from "./CardList"
 
 const Home = () => {
     const [cards, setCards] = useState(null)
